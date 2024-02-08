@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shashi_mern/static/css/main.f855e6bc.css",
+    "main.js": "/shashi_mern/static/js/main.6ffd0f42.js",
+    "static/js/787.23af3610.chunk.js": "/shashi_mern/static/js/787.23af3610.chunk.js",
+    "static/media/profileimage.jpg": "/shashi_mern/static/media/profileimage.c60484c4aaadac701e2c.jpg",
+    "static/media/logo.svg": "/shashi_mern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shashi_mern/index.html",
+    "main.f855e6bc.css.map": "/shashi_mern/static/css/main.f855e6bc.css.map",
+    "main.6ffd0f42.js.map": "/shashi_mern/static/js/main.6ffd0f42.js.map",
+    "787.23af3610.chunk.js.map": "/shashi_mern/static/js/787.23af3610.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ffd0f42.js"
+  ]
+}
